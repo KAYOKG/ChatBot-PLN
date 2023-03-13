@@ -13,5 +13,6 @@
 </ul>
 
 # Para melhorias futuras
-
-Ajeitar arquivo json, o codigo ao executar muda a estrutura do arquivo conversation.json que no caso não era para mudar e sim para manter a estrutura sem alterar do arquivo Estrutura.json.
+<ul>
+<li>Ajeitar arquivo json, o codigo ao executar muda a estrutura do arquivo conversation.json que no caso não era para mudar e sim para manter a estrutura sem alterar do arquivo Estrutura.json.</li>
+</ul>
