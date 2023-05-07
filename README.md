@@ -1,4 +1,4 @@
-## Este código realiza o processamento de linguagem natural para identificar a intenção do usuário a partir de perguntas.
+## Este código realiza o processamento de linguagem natural para responder as perguntas do usuário.
 
 <ul>
   <li>Primeiro, os dados das conversas anteriores são carregados de um arquivo JSON. </li>
